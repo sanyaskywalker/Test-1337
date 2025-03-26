@@ -1,0 +1,10 @@
+C:\vino\zhuykov-repos\Test-1337\calculator\bin\Debug\calculator.exe.config
+C:\vino\zhuykov-repos\Test-1337\calculator\bin\Debug\calculator.exe
+C:\vino\zhuykov-repos\Test-1337\calculator\bin\Debug\calculator.pdb
+C:\vino\zhuykov-repos\Test-1337\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\vino\zhuykov-repos\Test-1337\calculator\obj\Debug\calculator.Form1.resources
+C:\vino\zhuykov-repos\Test-1337\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\vino\zhuykov-repos\Test-1337\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\vino\zhuykov-repos\Test-1337\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\vino\zhuykov-repos\Test-1337\calculator\obj\Debug\calculator.exe
+C:\vino\zhuykov-repos\Test-1337\calculator\obj\Debug\calculator.pdb
